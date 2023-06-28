@@ -14,6 +14,7 @@ function MainContent(): JSX.Element {
   return (
     <main>
       <section>
+        <h1> adding text</h1>
         <h2>About Me</h2>
         <p>Hi! My name is Nichard Rg.</p>
         <p>
